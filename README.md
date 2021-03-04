@@ -8,7 +8,7 @@ I'm looking to make the world a better place by sharing my passion, joys, and sy
 
 <!--
 **chirptotheeast/chirptotheeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 - 🔭 I’m currently working on a Children's Entertainment App: The Playground.
 - 🌱 I’m currently learning Redux && Next.js.
@@ -18,4 +18,4 @@ I'm looking to make the world a better place by sharing my passion, joys, and sy
 - 📫 How to reach me: alyssa.e.easterly@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: "If Alyssa reached the bottom of the ocean, she would find a treasure chest full of golden popcorn. The best food in all of the land."
--->
+
