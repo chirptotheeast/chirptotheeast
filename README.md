@@ -2,7 +2,7 @@
 
 My name is a Alyssa!
 
-I'm a Full Stack Developer, sometimes 🧜‍♀️, sometimes musician 🎶, Border Collie pup owner, <Yogi /> and overall a passionate joy/sunshine bringer.
+I'm a Full Stack Developer, sometimes 🧜‍♀️, sometimes musician 🎶, Border Collie 🐶 pup owner, <Yogi /> and overall a passionate joy/sunshine bringer.
 
 I'm looking to make the world a better place by sharing my passion, joys, and synergizing that into web apps that will improve our lives.
 
