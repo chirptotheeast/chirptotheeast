@@ -11,7 +11,7 @@ I'm looking to make the world a better place by sharing my passion, joys, and sy
 -->
 
 - 🔭 I’m currently working on a Children's Entertainment App: The Playground.
-- 🌱 I’m currently learning Redux && Next.js.
+- 🌱 I’m currently learning Redux && Node.js.
 - 👯 I’m looking to work Full-time with companies in need of web development services.
 - 🤔 I’m looking for help with landing my first dev role.
 - 💬 Ask me about mermaids, music, and web development.
