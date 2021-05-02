@@ -14,7 +14,7 @@ I'm looking to make the world a better place by sharing my passion, joys, and sy
 - 🌱 I’m currently learning Redux && Node.js.
 - 👯 I’m looking to work Full-time with a company in need of web development services.
 - 🤔 I’m looking for help with landing my first dev role.
-- 💬 Ask me about mermaids, music, and web development.
+- 💬 Ask me about mermaids, music, and web development!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: "If Alyssa reached the bottom of the ocean, she would find a treasure chest full of golden popcorn. The best food in all of the land."
 
