@@ -10,7 +10,7 @@ I'm looking to make the world a better place by sharing my passion, joys, and sy
 **chirptotheeast/chirptotheeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a Holistic Health App.
+- 🔭 I’m currently working on an App for Music Sharing.
 - 🌱 I’m currently learning Redux && Node.js.
 - 👯 I’m looking to work full-time with a company in need of web development services.
 - 🤔 I’m looking for help with landing my first dev role.
