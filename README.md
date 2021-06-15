@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is a Alyssa!
+My name is Alyssa!
 
 I'm a Full Stack Developer, sometimes 🧜‍♀️, musician 🎶, Border Collie 🐶 pup owner, <Yogi /> and overall a passionate joy/sunshine bringer.
 
